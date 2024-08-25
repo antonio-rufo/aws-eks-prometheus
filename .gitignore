@@ -1,0 +1,17 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+.DS_Store
+*.yaml
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock
+.terraform/
+.DS_Store
+.terraform.*
+*.pem
+*bkup
